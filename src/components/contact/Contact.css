@@ -1,0 +1,8 @@
+.contact{
+    min-height: 100vh;
+}
+#contact{
+    padding-top: 75px;
+    background-image: url("D:\react\portfolio\src\components\contact\pexels-andrea-piacquadio-3764486.jpg");
+    background-size:100% 100%;
+}

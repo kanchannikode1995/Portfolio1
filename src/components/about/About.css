@@ -1,0 +1,9 @@
+.about {
+    min-height: 85vh;
+}
+#about {
+    padding-top: 75px;
+}
+.heading title {
+    font-size: 100px;
+}
